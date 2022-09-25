@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/base-de-datos-colaboradores/static/css/main.d7281570.css",
+    "main.js": "/base-de-datos-colaboradores/static/js/main.a9e8d796.js",
+    "index.html": "/base-de-datos-colaboradores/index.html",
+    "main.d7281570.css.map": "/base-de-datos-colaboradores/static/css/main.d7281570.css.map",
+    "main.a9e8d796.js.map": "/base-de-datos-colaboradores/static/js/main.a9e8d796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7281570.css",
+    "static/js/main.a9e8d796.js"
+  ]
+}
