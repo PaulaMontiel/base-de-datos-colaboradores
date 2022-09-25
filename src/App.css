@@ -1,0 +1,20 @@
+html,body,.myContainer,.mynav{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #1A1A1B;
+}
+.navbar-bg-drk{
+    background-color: #333F44;
+}
+.myTitle{
+    color: #94F3E4;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
